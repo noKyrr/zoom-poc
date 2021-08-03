@@ -5,7 +5,7 @@
   "homepage": "",
   "private": true,
   "dependencies": {
-    "@zoomus/websdk": "^1.9.7",
+    "@zoomus/websdk": "1.9.7",
     "crypto": "^1.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
